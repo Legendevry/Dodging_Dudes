@@ -35,6 +35,8 @@ Merci à lui pour ce superbe travail pixel art !
 ## 📷 Aperçu
 
 <p align="center">
+  <img src="https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/Preview3.png" alt="Aperçu du jeu" width="25%" />
+  <img src="https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/Preview2.png" alt="Aperçu du jeu" width="25%" />
   <img src="https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/Preview.png" alt="Aperçu du jeu" width="25%" />
 </p>
 
